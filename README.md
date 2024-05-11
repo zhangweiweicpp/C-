@@ -7,7 +7,8 @@
 
 - [Effective C++](https://github.com/huihut/interview#effective)  
 
-# github每日提交流程
+<details>
+  <summary># github每日提交流程</summary>
     git config --global user.name "zhangweiweicpp"  
 
     git config --global user.email "243xxxxx933@qq.com"  
@@ -36,4 +37,6 @@
 
     **将会推送本地主分支的更新到远程主分支。确保你当前位于正确的分支上，推送你的更改到远程仓库的 main 分支  
 
-    git push origin <本地分支名>:<远程分支名>  
+    git push origin <本地分支名>:<远程分支名> 
+</details>
+ 
