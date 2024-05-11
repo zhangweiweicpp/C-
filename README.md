@@ -10,6 +10,8 @@
 
 - [Effective C++](https://github.com/huihut/interview#effective)  
 
+- [Vscode的快捷键](https://zhuanlan.zhihu.com/p/44044896)
+
 ***
 
 # github每日提交流程
@@ -19,6 +21,12 @@
     git config --global user.name "zhangweiweicpp"  
 
     git config --global user.email "243xxxxx933@qq.com"  
+    ---可选--添加公钥到github
+    ssh-keygen -t rsa -C ‘上面的邮箱’  
+    vim ~/.ssh
+    ssh -T git@github.com  
+    git remote set-url origin git@github.com:zhangweiweicpp/remote_image_process_script.git
+    ---
 
     git init  
 
