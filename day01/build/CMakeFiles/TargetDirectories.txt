@@ -1,0 +1,3 @@
+/opt/C++/day01/build/CMakeFiles/main.dir
+/opt/C++/day01/build/CMakeFiles/edit_cache.dir
+/opt/C++/day01/build/CMakeFiles/rebuild_cache.dir
