@@ -18,5 +18,5 @@ int main(int argc,char const *argv[])
     xiaoming.sex="男";
     xiaoming.age = 100;
     cout << "学号：" << xiaoming.number << " 名字：" << xiaoming.name << " 性别：" << xiaoming.sex << " 年龄：" << xiaoming.age << endl;
-    return 0;   
+    return 0;
 }
