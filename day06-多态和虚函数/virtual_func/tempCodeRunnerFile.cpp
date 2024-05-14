@@ -1,0 +1,1 @@
+virtual void g() { cout << "B::g"; }
